@@ -1,0 +1,11 @@
+
+
+[line_break]
+disabled = true
+
+[character]
+success_symbol = "[❯](bold purple) "
+error_symbol = "[❯](bold red) "
+
+[cmd_duration]
+min_time = 900_000  # Show command duration over 10,000 milliseconds (=10 sec)

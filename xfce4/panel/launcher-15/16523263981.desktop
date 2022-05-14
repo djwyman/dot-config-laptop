@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Standard Notes
+Exec=env DESKTOPINTEGRATION=false /usr/bin/standard-notes
+Terminal=false
+Type=Application
+Icon=standard-notes
+StartupWMClass=standard notes
+X-AppImage-Version=3.14.1
+Comment=An end-to-end encrypted notes app for digitalists and professionals.
+MimeType=x-scheme-handler/standardnotes;
+Categories=Office;
+X-XFCE-Source=file:///usr/share/applications/standard-notes.desktop

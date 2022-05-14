@@ -1,0 +1,9 @@
+2022/05/14-01:22:06.960 cc7 Reusing MANIFEST /home/donald/.config/Standard Notes/Local Storage/leveldb/MANIFEST-000001
+2022/05/14-01:22:06.963 cc7 Recovering log #46
+2022/05/14-01:22:06.963 cc7 Reusing old log /home/donald/.config/Standard Notes/Local Storage/leveldb/000046.log 
+2022/05/14-01:24:07.219 cc7 Level-0 table #49: started
+2022/05/14-01:24:07.224 cc7 Level-0 table #49: 69657 bytes OK
+2022/05/14-01:24:07.229 cc7 Delete type=0 #46
+2022/05/14-01:28:07.240 cc5 Level-0 table #51: started
+2022/05/14-01:28:07.245 cc5 Level-0 table #51: 69650 bytes OK
+2022/05/14-01:28:07.251 cc5 Delete type=0 #48
