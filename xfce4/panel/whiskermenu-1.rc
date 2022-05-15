@@ -1,5 +1,5 @@
 favorites=eos-quickstart.desktop,xfce4-terminal.desktop,org.xfce.Parole.desktop,galculator.desktop,thunar.desktop,xfce4-taskmanager.desktop,xfce-settings-manager.desktop,pavucontrol.desktop,eos-log-tool.desktop,welcome.desktop
-recent=electron-mail.desktop,morgen.desktop,galculator.desktop,xfce-ui-settings.desktop,xfce-settings-manager.desktop,xfce4-terminal.desktop
+recent=xfce-session-settings.desktop,menulibre.desktop,eos-quickstart.desktop,xfce-settings-manager.desktop,electron-mail.desktop,morgen.desktop
 button-title=EndeavourOS\ \ 
 button-icon=/usr/share/endeavouros/EndeavourOS-icon.png
 button-single-row=false

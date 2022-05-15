@@ -1,3 +1,42 @@
-2022/05/14-01:21:17.641 bb5 Reusing MANIFEST /home/donald/.config/Standard Notes/Local Storage/leveldb/MANIFEST-000001
-2022/05/14-01:21:17.643 bb5 Recovering log #46
-2022/05/14-01:21:17.643 bb5 Reusing old log /home/donald/.config/Standard Notes/Local Storage/leveldb/000046.log 
+2022/05/14-01:22:06.960 cc7 Reusing MANIFEST /home/donald/.config/Standard Notes/Local Storage/leveldb/MANIFEST-000001
+2022/05/14-01:22:06.963 cc7 Recovering log #46
+2022/05/14-01:22:06.963 cc7 Reusing old log /home/donald/.config/Standard Notes/Local Storage/leveldb/000046.log 
+2022/05/14-01:24:07.219 cc7 Level-0 table #49: started
+2022/05/14-01:24:07.224 cc7 Level-0 table #49: 69657 bytes OK
+2022/05/14-01:24:07.229 cc7 Delete type=0 #46
+2022/05/14-01:28:07.240 cc5 Level-0 table #51: started
+2022/05/14-01:28:07.245 cc5 Level-0 table #51: 69650 bytes OK
+2022/05/14-01:28:07.251 cc5 Delete type=0 #48
+2022/05/14-01:32:07.217 cc7 Level-0 table #53: started
+2022/05/14-01:32:07.221 cc7 Level-0 table #53: 69657 bytes OK
+2022/05/14-01:32:07.226 cc7 Delete type=0 #50
+2022/05/14-01:32:07.227 cc7 Compacting 4@0 + 1@1 files
+2022/05/14-01:32:07.234 cc7 Generated table #54@0: 2 keys, 17469 bytes
+2022/05/14-01:32:07.234 cc7 Compacted 4@0 + 1@1 files => 17469 bytes
+2022/05/14-01:32:07.244 cc7 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/05/14-01:32:07.244 cc7 Delete type=2 #53
+2022/05/14-01:32:07.244 cc7 Delete type=2 #51
+2022/05/14-01:32:07.244 cc7 Delete type=2 #43
+2022/05/14-01:32:07.244 cc7 Delete type=2 #49
+2022/05/14-01:32:07.244 cc7 Delete type=2 #45
+2022/05/14-01:36:07.236 cc5 Level-0 table #56: started
+2022/05/14-01:36:07.243 cc5 Level-0 table #56: 69657 bytes OK
+2022/05/14-01:36:07.248 cc5 Delete type=0 #52
+2022/05/14-01:40:07.230 cc7 Level-0 table #58: started
+2022/05/14-01:40:07.238 cc7 Level-0 table #58: 69657 bytes OK
+2022/05/14-01:40:07.247 cc7 Delete type=0 #55
+2022/05/14-01:44:07.241 176b Level-0 table #60: started
+2022/05/14-01:44:07.246 176b Level-0 table #60: 69653 bytes OK
+2022/05/14-01:44:07.251 176b Delete type=0 #57
+2022/05/14-01:48:07.240 cc7 Level-0 table #62: started
+2022/05/14-01:48:07.248 cc7 Level-0 table #62: 69657 bytes OK
+2022/05/14-01:48:07.258 cc7 Delete type=0 #59
+2022/05/14-01:48:07.258 cc7 Compacting 4@0 + 1@1 files
+2022/05/14-01:48:07.264 cc7 Generated table #63@0: 2 keys, 17469 bytes
+2022/05/14-01:48:07.264 cc7 Compacted 4@0 + 1@1 files => 17469 bytes
+2022/05/14-01:48:07.272 cc7 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/05/14-01:48:07.272 cc7 Delete type=2 #58
+2022/05/14-01:48:07.272 cc7 Delete type=2 #60
+2022/05/14-01:48:07.272 cc7 Delete type=2 #54
+2022/05/14-01:48:07.272 cc7 Delete type=2 #62
+2022/05/14-01:48:07.272 cc7 Delete type=2 #56

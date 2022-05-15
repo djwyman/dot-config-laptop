@@ -123,3 +123,18 @@ Latest: 0.19.0 | Installed: 0.19.0
 Latest: 1.1.0 | Installed: 1.1.0
 [2022-05-14 01:22:09.296] [info]  PackageManager: Checking for update for Standard Notes Writer
 Latest: 0.1.1 | Installed: 0.1.1
+[2022-05-14 19:42:43.122] [info]  Checking for update
+[2022-05-14 19:42:43.161] [error] Error: Error: ENOENT: no such file or directory, open '/opt/standardnotes-bin/resources/app-update.yml'
+[2022-05-14 19:42:44.023] [info]  Checking for update
+[2022-05-14 19:42:44.024] [error] Error: Error: ENOENT: no such file or directory, open '/opt/standardnotes-bin/resources/app-update.yml'
+[2022-05-14 19:42:44.937] [info]  PackageManager: received sync event for: Rich Markdown Editor (0.19.0) (deleted: undefined), Append Editor - Beta (1.2.6) (deleted: undefined), Extensions (undefined) (deleted: undefined), Batch Manager (undefined) (deleted: undefined), Dracula (0.0.16) (deleted: undefined), Horizon Dark (1.0.0) (deleted: undefined), Standard Notes Writer (0.1.1) (deleted: undefined)
+[2022-05-14 19:42:44.960] [info]  PackageManager: Checking for update for Dracula
+Latest: 0.0.16 | Installed: 0.0.16
+[2022-05-14 19:42:45.135] [info]  PackageManager: Checking for update for Append Editor - Beta
+Latest: 1.2.6 | Installed: 1.2.6
+[2022-05-14 19:42:45.472] [info]  PackageManager: Checking for update for Horizon Dark
+Latest: 1.1.0 | Installed: 1.1.0
+[2022-05-14 19:42:45.499] [info]  PackageManager: Checking for update for Standard Notes Writer
+Latest: 0.1.1 | Installed: 0.1.1
+[2022-05-14 19:42:45.515] [info]  PackageManager: Checking for update for Rich Markdown Editor
+Latest: 0.19.0 | Installed: 0.19.0
